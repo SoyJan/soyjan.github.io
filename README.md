@@ -1,12 +1,53 @@
-# soyjan.github.io
-Solo con proposito de testeo 
+Programmer, developer, designer, video editor and software engineer 💻
+------------------------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et diam massa. Ut sed malesuada nibh. Curabitur suscipit ligula vel dolor pulvinar varius. Nam neque lacus, finibus eu ullamcorper vel, mollis non justo. Fusce ac est vel sapien ullamcorper ultricies in ut nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac hendrerit diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent euismod diam vel mollis commodo. Phasellus eu lorem diam. Vivamus varius rhoncus felis, a varius velit pharetra at. Phasellus porta felis et massa dapibus malesuada. Sed eleifend eros eget commodo ultrices. Vestibulum gravida, metus sed fringilla sollicitudin, felis lacus pellentesque erat, nec semper libero lorem facilisis dolor. Vestibulum facilisis orci a ultrices faucibus.
+* 🌍  I'm from México
+* ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
+* 🐱‍👤  I am the owner and responsible for managing [creative creator.](https://github.com/creative-creator-org)
+* 🎮  In my spare time I usually play [osu!std 🟣](https://osu.ppy.sh/users/8613890) or VALORANT 🟥.
+*  🛡  Cybersecurity is one of my specialties, as well as network auditing 📡, I like to find vulnerabilities inside networks.
+* 🎬  I'm also a professional video editor, and I'm a graphic designer in process, 🎨 I work easily in web projects 🌐, handling various designs, applications for android devices 📱, among others.
+* 🕹  I can design discord servers in a professional manner, prioritizing the security ⚔ of the server in question, I have knowledge in moderation for streaming on Twitch and YouTube 🎮.
 
-Sed tincidunt, est id ultrices aliquet, nibh mi commodo erat, nec interdum eros nibh viverra odio. In vulputate dignissim malesuada. In rutrum pretium eros, eget gravida ligula egestas a. Curabitur sed viverra orci. Maecenas mauris arcu, ullamcorper ut enim ac, vehicula eleifend justo. Integer rutrum ante eget sem posuere, pharetra imperdiet dolor ornare. Phasellus condimentum, metus eu hendrerit posuere, nisi tellus consequat risus, et faucibus felis ipsum a risus. Curabitur in interdum leo, faucibus aliquam enim. Duis nunc lorem, porta et metus a, euismod vulputate magna.
+### Skills
 
-Nullam sit amet iaculis odio, vitae vehicula nisi. Curabitur blandit dui et ante venenatis scelerisque sit amet id purus. Nulla viverra lorem id neque vestibulum, tempor dapibus odio imperdiet. Pellentesque fermentum, metus et condimentum convallis, ex massa egestas leo, eget dapibus lacus ipsum id sem. Proin consequat lacus at arcu sagittis mollis eget at leo. Mauris venenatis, sapien vel commodo euismod, velit sem aliquet augue, vehicula ultricies enim ante ut elit. Ut neque orci, rutrum sed dui nec, gravida molestie erat. Cras hendrerit in arcu vitae commodo. Nulla dictum porttitor mollis.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+</p>
 
-Suspendisse suscipit eu dui sit amet tristique. Donec tincidunt, lacus venenatis maximus rhoncus, sem nunc placerat orci, euismod accumsan purus ante a lorem. Suspendisse sodales metus laoreet semper imperdiet. Quisque sed hendrerit orci, ultrices aliquet ligula. Donec vel risus tempor, maximus lorem ac, tempus justo. Ut accumsan gravida luctus. Maecenas convallis fringilla efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque a enim et nisl molestie vehicula. Duis consequat pharetra dictum. Aenean quis nisi enim. Donec sit amet finibus mi, sit amet pellentesque arcu. Fusce malesuada sed metus vitae blandit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+### Socials
 
-Proin congue id enim eget pharetra. Aenean vitae nulla euismod odio mollis vulputate sit amet at mauris. Nunc interdum velit ac elementum scelerisque. Suspendisse augue nunc, vehicula at elit posuere, sagittis condimentum dui. Praesent tempor sodales ornare. Pellentesque magna ex, laoreet sit amet tortor vitae, maximus egestas mi. In eget erat ac libero dapibus placerat vel ut sapien. Curabitur tincidunt mauris aliquet congue finibus. Maecenas nibh velit, lobortis id enim vel, tempor consectetur sapien. In ultricies fermentum ligula. Aliquam metus dui, dapibus ut venenatis ut, viverra cursus turpis. Donec non ipsum ac arcu malesuada pretium ut eu purus. Duis ultrices nunc leo, ac lacinia ipsum fringilla sit amet. Nullam viverra, enim ac eleifend consectetur, turpis ipsum ultricies augue, id imperdiet ante elit a purus. Vivamus ultrices metus non mauris viverra, eget cursus justo vehicula. Nulla facilisi.![firmaosu](https://github.com/SoyJan/soyjan.github.io/assets/49103528/1c4064b0-8f7b-476e-b260-74abb48ea42f)
+<p align="left"> 
+<a href="https://www.behance.com/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="36" height="36" /></a> 
+<a href="https://discord.com/users/367444836992679937" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a> 
+<a href="https://www.facebook.com/janmarco.var" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a> 
+<a href="http://www.instagram.com/soyjanmarco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a> 
+<a href="https://www.twitter.com/soyjanmarco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>
+<a href="https://www.youtube.com/c/UCsiPUv4ayGFW5B8K59cch2w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" /></a> 
+<a href="https://www.twitch.tv/soyjanmarco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" /></a>
+<a href="http://www.medium.com/@marcovarela1290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="36" height="36" /></a> 
+
+<a href="https://www.twitter.com/soyjanmarco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/soyjanmarco?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/soyjanmarco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/soyjanmarco?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>  
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SoyJan"><img src="https://github-readme-stats.vercel.app/api?username=SoyJan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SoyJan's GitHub stats" /></a>
+
+<a href="https://www.github.com/SoyJan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
